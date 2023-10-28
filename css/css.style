@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
-body {
+html, body {
     margin: 0;
     padding: 0;
     background: linear-gradient(to bottom, #8c52ff, #cb6ce6);
